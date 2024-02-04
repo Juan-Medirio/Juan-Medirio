@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning instrumentation and control engineering
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me ... my email address: jemr61b@gmail.com
+- 📫 How to reach me ... comment
 - 😄 Pronouns: Medirio...
 - ⚡ Fun fact: I love programming!
 
